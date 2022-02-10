@@ -1,5 +1,7 @@
 # Vježba: API i fetch
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd4110b4-e67b-4bbe-b1e1-63033f0b1e22/deploy-status)](https://app.netlify.com/sites/zopaj63-api-exercise/deploys)
+
 Doradite funkcionalnosti aplikacije sa zaslona:
 1. Dohvatite svoj GitHub profil
 2. Kreirajte novi h1 element (putem JS) i u njega upišite vaš login iz response objekta. Dodajte element na stranicu.
