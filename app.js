@@ -14,6 +14,7 @@ fetch(endpoint)
         const img = document.createElement("img");
         img.setAttribute("src", data.avatar_url);
         img.setAttribute("alt", `${data.login} profile image`);
+        img.setAttribute("title", `${data.login} profile image`);
         img.setAttribute("width", 160);
         document.body.appendChild(img);
         img.style.marginBottom = "20px";
